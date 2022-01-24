@@ -50,8 +50,8 @@ header{
 .menu-part{
     width: 50%;
     float: left;
+    text-align: right;
     margin-top: 15px;
-    padding-left: 147px;
 }
 .menu-part ul{
     margin-top: 20px;
